@@ -498,21 +498,6 @@ This project provided strong practical understanding of:
 
 ---
 
-# 📂 Repository Structure
-
-```bash
-├── MATLAB_Model/
-├── Hardware_Images/
-├── Waveforms/
-├── Documentation/
-├── STM32_Code/
-├── images/
-└── README.md
-```
-
----
-
-
 # 📖 References
 
 1. Rashid — Power Electronics  
