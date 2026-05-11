@@ -128,7 +128,7 @@ The converter consists of:
 
 
 <p align="center">
-  <img src="Assets/converter_topology.jpg" width="650">
+  <img src="Assets/converter_topology.jpg" width="950">
 </p>
 
 
@@ -214,7 +214,7 @@ The converter operates in boost mode.
 
 
 <p align="center">
-  <img src="Assets/Switching Waveform.jpg" width="650">
+  <img src="Assets/Switching Waveform.jpg" width="950">
 </p>
 
 ---
@@ -308,7 +308,7 @@ C=\frac{I_{out}D}{f_s\Delta V_o}
 ## 📷 Gate Driver Circuit
 
 <p align="center">
-  <img src="Assets/Gate Driver Circuit.jpg" width="650">
+  <img src="Assets/Gate Driver Circuit.jpg" width="950">
 </p>
 
 
