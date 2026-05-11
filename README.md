@@ -373,7 +373,7 @@ The MATLAB/Simulink model includes:
 # 📷 Hardware Prototype
 
 <p align="center">
-  <img src="Assets/Hardware Prototype.jpg" width="650">
+  <img src="Assets/Hardware Prototype.jpg" width="950">
 </p>
 
 
@@ -397,7 +397,7 @@ The MATLAB/Simulink model includes:
 # 📷 Hardware Waveforms
 
 <p align="center">
-  <img src="Assets/Hardware Waveform.jpeg" width="850">
+  <img src="Assets/Hardware Waveform.jpeg" width="950">
 </p>
 
 ---
