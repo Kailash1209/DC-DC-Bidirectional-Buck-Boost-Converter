@@ -386,7 +386,7 @@ The MATLAB/Simulink model includes:
 | MOSFET | IRFP250N / IRF3205 |
 | Controller | STM32F407 |
 | Current Sensor | ACS712 |
-| Gate Driver | IR2104 / TLP250 |
+| Gate Driver | A3120 / TLP250 |
 | Inductor | 100 µH Toroidal |
 | Switching Frequency | 50–75 kHz |
 | Battery Voltage | 36V Li-Ion |
