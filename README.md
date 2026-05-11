@@ -243,9 +243,11 @@ L=\frac{(V_{in}-V_{out})D}{\Delta I \times f_s}
 
 ## 📷 Inductor Image
 
-```md
-![Inductor](images/inductor.jpg)
-```
+
+<p align="center">
+  <img src="Assets/Inductor.jpg" width="650">
+</p>
+
 
 ---
 
