@@ -126,9 +126,9 @@ The converter consists of:
 
 ## 📷 Converter Circuit Diagram
 
-```md
+
 ![Converter Topology](Assets/converter_topology.jpg)
-```
+
 
 ---
 
