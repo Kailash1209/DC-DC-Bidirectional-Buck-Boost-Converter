@@ -307,9 +307,10 @@ C=\frac{I_{out}D}{f_s\Delta V_o}
 
 ## 📷 Gate Driver Circuit
 
-```md
-![Gate Driver](images/gate_driver.png)
-```
+<p align="center">
+  <img src="Assets/Gate Driver Circuit.jpg" width="650">
+</p>
+
 
 ---
 
