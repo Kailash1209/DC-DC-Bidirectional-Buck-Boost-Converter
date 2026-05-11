@@ -212,9 +212,10 @@ The converter operates in boost mode.
 
 # 📷 Switching Waveforms
 
-```md
-![PWM Waveforms](images/pwm_waveforms.png)
-```
+
+<p align="center">
+  <img src="Assets/Switching Waveform.jpg" width="650">
+</p>
 
 ---
 
