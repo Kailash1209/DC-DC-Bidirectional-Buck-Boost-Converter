@@ -352,12 +352,4 @@ The system demonstrated successful:
 
 ---
 
-# 📂 Repository Contents
 
-```bash
-├── Simulink_Model/
-├── Hardware_Images/
-├── Waveforms/
-├── Results/
-├── Documentation/
-└── README.md
