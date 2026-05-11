@@ -397,7 +397,7 @@ The MATLAB/Simulink model includes:
 # 📷 Hardware Waveforms
 
 <p align="center">
-  <img src="Assets/Hardware Waveform.jpeg" width="650">
+  <img src="Assets/Hardware Waveform.jpeg" width="850">
 </p>
 
 ---
