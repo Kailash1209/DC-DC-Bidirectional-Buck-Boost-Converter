@@ -372,9 +372,10 @@ The MATLAB/Simulink model includes:
 
 # 📷 Hardware Prototype
 
-```md
-![Hardware Setup](images/hardware_setup.jpg)
-```
+<p align="center">
+  <img src="Assets/Hardware Prototype.jpg" width="650">
+</p>
+
 
 ---
 
