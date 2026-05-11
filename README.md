@@ -337,9 +337,9 @@ The MATLAB/Simulink model includes:
 
 # 📷 Simulink Model
 
-```md
-![Simulink Model](images/simulink_model.png)
-```
+<p align="center">
+  <img src="Assets/Simulink Model.jpg" width="950">
+</p>
 
 ---
 
