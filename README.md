@@ -164,7 +164,7 @@ The converter operates using four MOSFET switches with complementary PWM control
 | Rated Power | 200 W |
 | Source Voltage | 48 V |
 | Battery Voltage | 36 V Lithium-Ion |
-| Switching Frequency | 50–75 kHz |
+| Switching Frequency | 75–100 kHz |
 | PWM Type | Complementary PWM |
 | Current Control | Digital |
 | Controller | STM32F407 |
@@ -226,10 +226,10 @@ The converter operates in boost mode.
 | Parameter | Value |
 |---|---|
 | Inductance | 300 µH |
-| Current Rating | ≥ 15 A |
+| Current Rating | ≥ 5.5 A |
 | Ripple Current | 30% |
 | Core Type | Toroidal Ferrite Core |
-| Switching Frequency | 50–75 kHz |
+| Switching Frequency | 75–100 kHz |
 
 ---
 
@@ -298,7 +298,7 @@ C=\frac{I_{out}D}{f_s\Delta V_o}
 
 | Parameter | Value |
 |---|---|
-| PWM Frequency | 75 kHz |
+| PWM Frequency | 75-100 kHz |
 | PWM Type | Complementary |
 | Dead-Time | ~500 ns |
 | Control | Digital PWM |
@@ -387,8 +387,8 @@ The MATLAB/Simulink model includes:
 | Controller | STM32F407 |
 | Current Sensor | ACS712 |
 | Gate Driver | A3120 / TLP250 |
-| Inductor | 100 µH Toroidal |
-| Switching Frequency | 50–75 kHz |
+| Inductor | 300 µH Toroidal |
+| Switching Frequency | 75–100 kHz |
 | Battery Voltage | 36V Li-Ion |
 | Source Voltage | 48V |
 
@@ -469,7 +469,7 @@ The MATLAB/Simulink model includes:
 
 - DSP-based digital control
 - MPPT integration
-- Battery charging algorithms
+- Battery charging algorithms (SOC)
 - Real-time monitoring dashboard
 - IoT connectivity
 - Efficiency optimization using SiC MOSFETs
